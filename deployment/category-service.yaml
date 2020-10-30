@@ -15,5 +15,3 @@ spec:
     app: category
     servicefor: category
   type: NodePort
-status:
-  loadBalancer: {}
